@@ -33,6 +33,6 @@ manifest:
       revision: main
     - name: nice-view-gem #new entry
       remote: m165437 #new entry
-      revision: main #new entry      
+      revision: 7794ebf7f75d7e16cb05240bcffe6c5a45ef5b44      
   self:
     path: config
