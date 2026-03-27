@@ -1,0 +1,8 @@
+file_format: "1"
+id: arisu
+name: Arisu
+type: shield
+url: https://github.com/hufngng/zmk-config
+requires: [pro_micro]
+features:
+  - keys
